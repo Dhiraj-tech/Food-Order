@@ -83,7 +83,7 @@ export const Layout = () => {
                     </li>
                     <li>
                       <a href="mailto:mail@ecom.com">
-                        <i className="fa fa-envelope me-2"></i>chiyalogy@mail.net
+                        <i className="fa fa-envelope me-2"></i>foodology@mail.net
                       </a>
                     </li>
                   </ul>
@@ -218,7 +218,7 @@ export const Layout = () => {
                             font-weight="700"
                           >
                             <tspan x="0" y="0">
-                              CHIYA
+                              FOODO
                             </tspan>
                             <tspan y="0" fill="#f29f05">
                               LOGY
@@ -337,7 +337,7 @@ export const Layout = () => {
                           font-weight="700"
                         >
                           <tspan x="0" y="0">
-                            CHIYA
+                            FOODO
                           </tspan>
                           <tspan y="0" fill="#f29f05">
                             LOGY
@@ -391,7 +391,7 @@ export const Layout = () => {
                     </p>
                   </div>
                   <Link to="#">
-                    <i className="fa-solid fa-envelope"></i>chiyalogy@mail.net
+                    <i className="fa-solid fa-envelope"></i>foodology@mail.net
                   </Link>
                   <Link to="#">
                     <i className="fa-solid fa-phone"></i>+977-1254224
@@ -417,7 +417,7 @@ export const Layout = () => {
               </div>
             </div>
             <div className="footer-two gap no-bottom">
-              <p>Copyright © 2024. Chiyalogy. All rights reserved.</p>
+              <p>Copyright © 2024. Foodology. All rights reserved.</p>
               <div className="privacy">
                 <Link to="#">Privacy Policy</Link>
                 <Link to="#">Terms & Services</Link>

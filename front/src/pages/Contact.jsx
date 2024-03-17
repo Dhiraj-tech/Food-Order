@@ -154,7 +154,7 @@ export const Contact = () => {
                     <i className="fa-solid fa-message"></i>
                   </div>
                   <div className="flex-grow-1 ms-2">
-                    <p className="mb-0">chiyalogy@mail.net</p>
+                    <p className="mb-0">foodology@mail.net</p>
                   </div>
                 </div>
                 <div className="d-flex text-muted align-items-center mt-2">
