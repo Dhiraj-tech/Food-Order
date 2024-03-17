@@ -39,7 +39,7 @@ export const About = () => {
               data-aos-duration="400"
             >
               <div className="about-content">
-                <h2>About Foodology</h2>
+                <h2>About Foodlogy</h2>
                 <br />
                 <h5>Tradition since 2022</h5>
                 <p>
