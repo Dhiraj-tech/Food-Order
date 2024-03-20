@@ -9,9 +9,7 @@ config()
 
 const app = express()
 
-app.use(cors({
-    origin: 'https://food-order-sepia-alpha.vercel.app'
-}));
+app.use(cors());
 
 app.use(express.json())
 app.use(bodyParser.urlencoded({extended: true}))
