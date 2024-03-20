@@ -138,7 +138,7 @@ export const Contact = () => {
             </div>
             <div className="col-lg-5 ms-auto order-first order-lg-last">
               <div className="mt-5">
-                <img src="img/photo-4.png" alt="" className="img-fluid" />
+                <img src="photo-4.png" alt="" className="img-fluid" />
               </div>
               <div className="mt-4 pt-3">
                 <div className="d-flex text-muted align-items-center mt-2">

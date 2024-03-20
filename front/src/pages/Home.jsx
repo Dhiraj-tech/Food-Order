@@ -134,7 +134,7 @@ export const Home = () => {
               data-aos-duration="300"
             >
               <div className="work-card">
-                <img alt="img" src="img/illustration-1.png" />
+                <img alt="img" src="illustration-1.png" />
                 <h4>
                   <span>01</span> Select Restaurant
                 </h4>
@@ -152,7 +152,7 @@ export const Home = () => {
               data-aos-duration="400"
             >
               <div className="work-card">
-                <img alt="img" src="img/illustration-2.png" />
+                <img alt="img" src="illustration-2.png" />
                 <h4>
                   <span>02</span> Select menu
                 </h4>
@@ -170,7 +170,7 @@ export const Home = () => {
               data-aos-duration="500"
             >
               <div className="work-card">
-                <img alt="img" src="img/illustration-3.png" />
+                <img alt="img" src="illustration-3.png" />
                 <h4>
                   <span>03</span> Wait for delivery
                 </h4>
@@ -196,7 +196,7 @@ export const Home = () => {
               data-aos-duration="300"
             >
               <div className="img-subscribe">
-                <img alt="img" src="img/photo-3.png" />
+                <img alt="img" src="photo-3.png" />
               </div>
             </div>
             <div
@@ -231,7 +231,7 @@ export const Home = () => {
               data-aos-duration="300"
             >
               <div className="img-subscribe">
-                <img alt="Illustration" src="img/illustration-4.png" />
+                <img alt="Illustration" src="illustration-4.png" />
               </div>
             </div>
             <div
