@@ -16,14 +16,6 @@ app.use(bodyParser.urlencoded({extended: true}))
 
 app.use(routes)
 
-app.use(cors(
-    {
-        origin: ["https://food-order-sepia-alpha.vercel.app"],
-        methods: ["POST", "GET"],
-        credentials: true
-    }
-))
-
 app.use((err, req, res, next)=>{
     res.status(err.status || 400)
         .json({message: err.message || 'There seems to be some problem.'})
