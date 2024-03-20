@@ -104,7 +104,7 @@ export const Home = () => {
       <hr />
       <div className="mt-5 mb-5">
         <h2 className="text-center feature-title">FEATURED MENU</h2>
-        <FeaturedList uri="product/featured" />
+        <FeaturedList uri="https://food-order-qnl2.onrender.com/product/featured" />
       </div>
 
       <div className="col-12">
