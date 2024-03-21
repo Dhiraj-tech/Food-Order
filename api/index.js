@@ -10,7 +10,7 @@ config()
 const app = express()
 
 app.use(cors({
-    origin: 'https://food-order-sepia-alpha.vercel.app'
+    origin: 'https://food-order-qnl2.onrender.com'
   }));
 
 app.use(express.json())
