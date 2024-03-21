@@ -17,7 +17,7 @@ export const NavBar = () => {
 
     return <Navbar expand="lg" variant="dark" bg="dark">
     <Container>
-        <Link to="/" className="navbar-brand">Ecommerce</Link>
+        <Link to="/" className="navbar-brand">Foodlogy</Link>
         <Navbar.Toggle />
         <Navbar.Collapse>
             <Nav className="me-auto">
